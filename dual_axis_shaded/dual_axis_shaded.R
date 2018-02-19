@@ -2,10 +2,8 @@
 args = commandArgs(trailingOnly=TRUE)
 
 library(ggplot2)
-library(reshape2)
 library(grid)
 library(gtable)
-library(gridExtra)
 
 grid.newpage()
 
@@ -20,13 +18,6 @@ output_file_name<-args[7]
 X_and_Y1<-read.csv(input_Y1, header = TRUE)
 X_and_Y2<-read.csv(input_Y2,  header = TRUE)
 yintercept<-as.numeric(intercept)
-
-#X_and_Y1<-read.csv("test_ag.csv", header = TRUE)
-#X_and_Y2<-read.csv("test_pi.csv", header = TRUE)
-#pos<-"170:250,520:600"
-#yintercept<-0.5
-#shaded="shaded"
-#plot_title="Example"
 
 attach(X_and_Y1)
 
@@ -101,6 +92,4 @@ grid.draw(g1)
 png(output_file_name,width = 1000, height = 350, units = "px") 
 grid.draw(g1) 
 dev.off()
-
-#ggsave(output_file_name, device = "png", width = 35, height = 10, units = "cm")
 
