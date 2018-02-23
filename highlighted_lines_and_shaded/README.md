@@ -3,6 +3,8 @@
 - Columns for csv file must be in format: label, x, y , see test.csv
 - Data to be highlighted must be in format label, pos1 pos2, see test_highlighted.txt
 
+  <br /> <br /> 
+
 		
 		USAGE:./highlighted_and_shaded.R  input.csv  highlight_positions.txt  plot_title  yintercept  legend_for_shaded  pos_for_shaded  output_plot.png
 
