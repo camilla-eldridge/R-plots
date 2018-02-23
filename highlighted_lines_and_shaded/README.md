@@ -1,5 +1,7 @@
 - Single line plot
 
+- Requires ggplot2
+
 - Plots highlighted line regions by type and colours by group using ggplot. * note type is assigned in script not csv file.
 
 - Columns for csv file must be in format: label, x, y , see test.csv
