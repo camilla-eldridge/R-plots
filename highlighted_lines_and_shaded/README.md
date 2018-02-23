@@ -12,5 +12,5 @@
 		
 		
 		
-		![alt text](highlighted_shaded.png)
+		![alt text] (highlighted_shaded.png)
  
