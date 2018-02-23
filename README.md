@@ -5,6 +5,7 @@ Shaded line plot:
 ![alt text](shaded_line_plot/test.png)
 
 
+<br /> <br /> <br />
 
 
 Highlighted and shaded line plot:
@@ -12,6 +13,8 @@ Highlighted and shaded line plot:
 
 ![alt text](highlighted_lines_and_shaded/highlighted_shaded.png)
 
+
+<br /> <br /> <br />
 
 
 
