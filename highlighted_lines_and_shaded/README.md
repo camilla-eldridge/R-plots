@@ -11,5 +11,8 @@
 		
 		
 		
-![alt text] (highlighted_shaded.png)
+  <br /> <br /> 
+
+
+![alt text](highlighted_shaded.png)
  
