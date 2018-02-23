@@ -8,4 +8,9 @@
 
 
 		Example ./highlighted_and_shaded_line.R  test_one_ag.csv  test_highlight.txt  highlighted  test_title  1  shaded 170:200,300:560 highlighted_shaded.png
+		
+		
+		
+		
+		![alt text](highlighted_shaded.png)
  
