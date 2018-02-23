@@ -1,4 +1,6 @@
-- Plots highlighted lines by type and colours by group using ggplot. * note type is assigned in script not csv file.
+- Single line plot
+
+- Plots highlighted line regions by type and colours by group using ggplot. * note type is assigned in script not csv file.
 
 - Columns for csv file must be in format: label, x, y , see test.csv
 - Data to be highlighted must be in format label, pos1 pos2, see test_highlighted.txt
