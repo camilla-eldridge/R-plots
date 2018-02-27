@@ -87,7 +87,7 @@ y_axis_2<-names(df2)[2]
 k2<-df2[1][[x_axis_2]]
 l2<-df2[2][[y_axis_2]]
 
-Z <- ggplot(X_and_Y2, aes_string(x = k2, y = l2)) + geom_line(colour = "black", size=0.3, linetype = "dashed") + ylim(0,3) + ylab("Y2") + theme_classic() %+replace% theme(panel.background = element_rect(fill = NA))
+Z <- ggplot(X_and_Y2, aes_string(x = k2, y = l2)) + geom_line(colour = "black", size=0.2, linetype = "dashed") + ylim(0,4) + ylab(y_axis_2) + theme_classic() %+replace% theme(panel.background = element_rect(fill = NA))
 
 # #### Everything below taken from: https://stackoverflow.com/questions/36754891/ggplot2-adding-secondary-y-axis-on-top-of-a-plot ######
 g1 <- ggplotGrob(G)
