@@ -6,7 +6,7 @@
 
        USAGE: shaded_line_plot.R   csv_file   plot_title   yintercept  output.png   shading_range
        
-       Example: shaded_line_plot.R   test.csv   "Test"  0.5  "Shaded"  test.png  170:250,520:600
+       Example: shaded_line_plot.R   test.csv   Test  0.5  Shaded  test.png  170:250,520:600
        
   
   <br /> <br /> <br /> 
