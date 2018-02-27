@@ -5,7 +5,7 @@
 
               
          
-         USAGE:  dual_axis_shaded.R   test_y1.csv   test_y2.csv   test_title   0.5   shaded   170:250,520:600   test.png
+         USAGE:  dual_axis_shaded.R   test_y1.csv   test_y2.csv   test_title   1   shaded   170:250,520:600   test.png
 
 
 <br /> <br /> <br />
