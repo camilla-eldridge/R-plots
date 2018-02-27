@@ -19,23 +19,13 @@ X_and_Y1<-read.csv(input_Y1, header = TRUE)
 X_and_Y2<-read.csv(input_Y2,  header = TRUE)
 
 grid.newpage()
-### read in csvs ####
-#X_and_Y1<-read.csv(input_main, header = TRUE)
-#highlight<-read.table(input_highlight, sep="\n")
-
-###
-# plot_title<-"test"
-# X_and_Y1<-read.csv("test_ag.csv", header = TRUE)
-# X_and_Y2<-read.csv("test_pi.csv", header = TRUE)
-# shaded<-"shaded"
-# pos<-"120:240, 300:400"
-# intercept<-0.5
-# output_plot_name<-"plot_out.png"
 
 ### make y intercept numeric ###
 yintercept<-as.numeric(intercept)
+
 ### make df from input_main ###
 df<-data.frame(X_and_Y1)
+
 ### get column names
 Lab<-names(df)[1]
 x_axis<-names(df)[2]
