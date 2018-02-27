@@ -1,7 +1,6 @@
 
 Shaded line plot:
 
-
 ![alt text](shaded_line_plot/test.png)
 
 
@@ -10,7 +9,6 @@ Shaded line plot:
 
 Highlighted and shaded line plot:
 
-
 ![alt text](highlighted_lines_and_shaded/highlighted_shaded.png)
 
 
@@ -18,7 +16,28 @@ Highlighted and shaded line plot:
 
 
 
+Highlighted and shaded multi-line:
+
+![alt text](shaded_highlighted_multi/test.png)
+
+<br /> <br /> <br />
+
+
+
 Dual axis shaded plot:
 
-
 ![alt text](dual_axis_shaded/test.png)
+
+
+<br /> <br /> <br />
+
+
+
+Dual axis highlighted and shaded:
+
+![alt text](dual_highlighted_shaded/test.png)
+
+<br /> <br /> <br />
+
+
+
