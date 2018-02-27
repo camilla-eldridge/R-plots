@@ -12,7 +12,7 @@ Plots:
 
 <br /> <br /> <br />
 
-![alt text](dual_highlighted_shaded/test.png)
+![alt text](test.png)
 
 
 
