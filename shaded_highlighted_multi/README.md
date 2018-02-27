@@ -1,6 +1,6 @@
 
 
--Plots highlighted regions on top of data per line for multiple lines (see test_highlighted.txt format)
+-Plots highlighted regions on top of data per line for multiple lines (see test_highlight_multi.txt format)
 
 -Requires ggplot2 
 
