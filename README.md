@@ -3,6 +3,9 @@ Shaded line plot:
 
 ![alt text](shaded_line_plot/test.png)
 
+<br /> <br /> <br />
+
+<br /> <br /> <br />
 
 <br /> <br /> <br />
 
@@ -14,6 +17,10 @@ Highlighted and shaded line plot:
 
 <br /> <br /> <br />
 
+<br /> <br /> <br />
+
+<br /> <br /> <br />
+
 
 
 Highlighted and shaded multi-line:
@@ -22,6 +29,9 @@ Highlighted and shaded multi-line:
 
 <br /> <br /> <br />
 
+<br /> <br /> <br />
+
+<br /> <br /> <br />
 
 
 Dual axis shaded plot:
@@ -31,11 +41,19 @@ Dual axis shaded plot:
 
 <br /> <br /> <br />
 
+<br /> <br /> <br />
+
+<br /> <br /> <br />
+
 
 
 Dual axis highlighted and shaded:
 
 ![alt text](dual_highlighted_shaded/test.png)
+
+<br /> <br /> <br />
+
+<br /> <br /> <br />
 
 <br /> <br /> <br />
 
