@@ -3,7 +3,7 @@ Data visualisation with ggplot2
 <br /> <br /> <br />
 
 
-Haplogroup distribution plot
+Haplogroup distribution plot:
 
 
 ![alt text](haplogroup_distribution_map/test_out.png)
