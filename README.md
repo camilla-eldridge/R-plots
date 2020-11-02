@@ -16,8 +16,17 @@ Haplogroup distribution plot:
 <br /> <br /> <br />
 
 
+Interactive MDS genetic distance plot (Rstudio)
 
 
+![alt text](interactive_MDS_plot/newplot.png)
+
+
+<br /> <br /> <br />
+
+<br /> <br /> <br />
+
+<br /> <br /> <br />
 
 
 Shaded line plot:
