@@ -1,4 +1,20 @@
 
+Haplogroup distribution plot
+<br /> <br /> <br />
+
+<br /> <br /> <br />
+
+<br /> <br /> <br />
+
+
+![alt text](haplogroup_distribution_map/test_out.png)
+
+
+
+
+
+
+
 Shaded line plot:
 
 ![alt text](shaded_line_plot/test.png)
