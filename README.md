@@ -1,10 +1,19 @@
+Data visualisation with ggplot2
+
+<br /> <br /> <br />
+
 
 Haplogroup distribution plot
-<br /> <br /> <br />
 
 
 ![alt text](haplogroup_distribution_map/test_out.png)
 
+
+<br /> <br /> <br />
+
+<br /> <br /> <br />
+
+<br /> <br /> <br />
 
 
 
