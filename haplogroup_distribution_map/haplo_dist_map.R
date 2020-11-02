@@ -8,6 +8,8 @@ haplotype_csv<-args[1]
 output_plot_name<-args[2]
 
 register_google(key = "AIzaSyOhYSCEscgQ_KE6iRqu80-XnKjBsG973WM")
+# key given freely on youtube at https://www.youtube.com/watch?v=A7LzEJiKQvc #
+
 coords<-read.csv(haplotype_csv, header = TRUE)
 attach(coords)
 
