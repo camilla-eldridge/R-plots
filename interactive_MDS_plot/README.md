@@ -10,9 +10,10 @@ Interactive MDS genetic distance plot in Rstudio
      3. Run in Rstudio.
 
      4. Open in browser:
-     <br /> <br /> <br />
+     
 
+<br /> <br /> <br />
 
-![alt text](interactive_MDS_plot/export.jpg)
+![alt text](https://github.com/camilla-eldridge/R-plots/blob/master/interactive_MDS_plot/export.jpg)
 
  
