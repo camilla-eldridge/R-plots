@@ -1,9 +1,9 @@
-Data visualisation with ggplot2
+# Data visualisation with ggplot2
 
 <br /> <br /> <br />
 
 
-Haplogroup distribution plot:
+## Haplogroup distribution plot:
 
 
 ![alt text](haplogroup_distribution_map/test_out.png)
@@ -16,7 +16,7 @@ Haplogroup distribution plot:
 <br /> <br /> <br />
 
 
-Interactive MDS genetic distance plot (Rstudio)
+## Interactive MDS genetic distance plot (Rstudio)
 
 
  ![alt text](interactive_MDS_plot/newplot.png)
@@ -29,7 +29,7 @@ Interactive MDS genetic distance plot (Rstudio)
 <br /> <br /> <br />
 
 
-Shaded line plot:
+## Shaded line plot:
 
 ![alt text](shaded_line_plot/test.png)
 
@@ -40,7 +40,7 @@ Shaded line plot:
 <br /> <br /> <br />
 
 
-Highlighted and shaded line plot:
+## Highlighted and shaded line plot:
 
 ![alt text](highlighted_lines_and_shaded/highlighted_shaded.png)
 
@@ -53,7 +53,7 @@ Highlighted and shaded line plot:
 
 
 
-Highlighted and shaded multi-line:
+## Highlighted and shaded multi-line:
 
 ![alt text](shaded_highlighted_multi/test.png)
 
@@ -64,7 +64,7 @@ Highlighted and shaded multi-line:
 <br /> <br /> <br />
 
 
-Dual axis shaded plot:
+## Dual axis shaded plot:
 
 ![alt text](dual_axis_shaded/test.png)
 
@@ -77,7 +77,7 @@ Dual axis shaded plot:
 
 
 
-Dual axis highlighted and shaded:
+## Dual axis highlighted and shaded:
 
 ![alt text](dual_highlighted_shaded/test.png)
 
