@@ -16,7 +16,7 @@
 <br /> <br /> <br />
 
 
-## Interactive MDS genetic distance plot (Rstudio)
+## Interactive MDS genetic distance plot.
 
 
  ![alt text](interactive_MDS_plot/newplot.png)
