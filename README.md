@@ -6,7 +6,7 @@
 ## Flow chart 
 
 
-![alt text](Flow_chartst/procrastinator.png)
+![alt text](Flow_charts/procrastinator.png)
 
 <br /> <br /> <br />
 <br /> <br /> <br />
