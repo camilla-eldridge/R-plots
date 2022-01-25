@@ -13,6 +13,15 @@
 <br /> <br /> <br />
 
 
+## Network of associations
+
+![alt text](network_plot/Association_net.png)
+
+<br /> <br /> <br />
+<br /> <br /> <br />
+<br /> <br /> <br />
+
+
 ## Haplogroup distribution plot:
 
 
