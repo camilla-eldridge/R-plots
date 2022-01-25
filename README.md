@@ -22,7 +22,7 @@
 <br /> <br /> <br />
 
 
-## Haplogroup distribution plot:
+## Haplogroup distribution 
 
 
 ![alt text](haplogroup_distribution_map/test_out.png)
@@ -35,7 +35,7 @@
 <br /> <br /> <br />
 
 
-## Interactive MDS genetic distance plot.
+## Interactive MDS genetic distance 
 
 
  ![alt text](interactive_MDS_plot/newplot.png)
@@ -48,7 +48,7 @@
 <br /> <br /> <br />
 
 
-## Shaded line plot:
+## Shaded lines
 
 ![alt text](shaded_line_plot/test.png)
 
@@ -59,7 +59,7 @@
 <br /> <br /> <br />
 
 
-## Highlighted and shaded line plot:
+## Highlighted and shaded lines
 
 ![alt text](highlighted_lines_and_shaded/highlighted_shaded.png)
 
@@ -72,7 +72,7 @@
 
 
 
-## Highlighted and shaded multi-line:
+## Highlighted and shaded multi-line
 
 ![alt text](shaded_highlighted_multi/test.png)
 
@@ -83,7 +83,7 @@
 <br /> <br /> <br />
 
 
-## Dual axis shaded plot:
+## Dual axis shaded
 
 ![alt text](dual_axis_shaded/test.png)
 
@@ -96,7 +96,7 @@
 
 
 
-## Dual axis highlighted and shaded:
+## Dual axis highlighted and shaded
 
 ![alt text](dual_highlighted_shaded/test.png)
 
