@@ -1,5 +1,15 @@
-# Data visualisation with ggplot2
+# Data visualisation 
 
+<br /> <br /> <br />
+
+
+## Flow chart 
+
+
+![alt text](Flow_chartst/procrastinator.png)
+
+<br /> <br /> <br />
+<br /> <br /> <br />
 <br /> <br /> <br />
 
 
